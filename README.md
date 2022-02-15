@@ -1,1 +1,1 @@
-# validator-pledge
+# Agoric Validator Pledge
