@@ -22,10 +22,10 @@ To receive and maintain delegation from the Agoric OpCo, I, [Wanderer Staking](h
 
 10. I commit to network contributions listed below:
 
-Category 1: Infrastructure
+    Category 1: Infrastructure
 
-I will run an RPC endpoint
+       I will run an RPC endpoint
 
-Category 2: Community Growth
+    Category 2: Community Growth
 
-I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates
+       I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates
