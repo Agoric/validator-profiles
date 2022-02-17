@@ -24,7 +24,8 @@ I, Paulo Pereira hereby commit to the following work and support for the benefit
 
 Category 1: Infrastructure
 
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint , I will build a block explorer, validator dashboard, or other community tool
+I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint , I will build a block explorer, validator dashboard, or other community tool <br >
+
 Category 2: Community Growth
 
 I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki. ‌
