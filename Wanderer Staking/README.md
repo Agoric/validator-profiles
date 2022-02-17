@@ -1,28 +1,31 @@
-# Agoric Pledge Form
+# Agoric Validator Pledge
 
-    Congratulations on being invited as a validator to receive delegation from the Agoric Operations Corporation!
+To receive and maintain delegation from the Agoric OpCo, I, [Wanderer Staking](https://gist.github.com/Wanderer-Cry/36ac394dbbb508cb26beddaa1267f650) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me by the Agoric Operations Company and/or any other associated organizations. :
 
-    1. Please enter your email address and select the Infrastructure and Community Growth contributions below and click the "Email me the pledge button". Once the form is complete, an automated email will be sent with the pledge in markdown format to your email address. Please make sure to check your spam folder!
+1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
-    2. Copy and paste the markdown of the pledge into a README.md file, and make sure to update placeholder in the markdown for entity or individual name.
+2. My node will have an uptime of at least 95%
 
-    3. Please head to the Validator repo on GitHub and post a pull request to add a folder including your README.md file. As usual, address any feedback on your contribution.
+3. I will set a reasonable commission rate between 3% to 10%
 
-    We ask that you post your pledge by Friday, February 18th.
+4. I commit to not exceed 10% voting power
 
-    IMPORTANT: These requirements and plans are subject to change. As with any security-related policy, we anticipate refinement of criteria, and review and update of delegations on an infrequent but regular basis. Specific delegations may be revoked for no longer satisfying the requirements (e.g., excessive commissions), excessive downtime, slashing, or non-participation in governance or community.
-    Moniker 
-       * Wanderer Staking *
+5. I will actively participate in security and upgrade governance proposals found on [Commonwealth.im](https://commonwealth.im/agoric)
 
-    Infrastructure 
-       * I will run an RPC endpoint *
-    
-    Please select at least one of the above
-    Community Growth *
-    * I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates *
+6. I will report bugs I discover through the process described in the [Agoric Reporting a Security Bug Runbook](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
-    Please select at least one of the above
+7. I will follow the guidelines described in the [Agoric Security Coordination - Emergency Bug Response with Chain Validators Runbook](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...) to maintain the health of the chain
 
-    Email 
-    * alawookal@gmail.com
+8. I will notify impacted parties in case of node outage.
 
+9. I will strive to capture and share observability metrics to help diagnose and troubleshoot network and node performance issues
+
+10. I commit to network contributions listed below:
+
+Category 1: Infrastructure
+
+I will run an RPC endpoint
+
+Category 2: Community Growth
+
+I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates
