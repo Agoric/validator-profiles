@@ -1,5 +1,7 @@
 # Agoric Validator Pledge
 
+[0base.vc Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4acufxj)
+
 I, 0base.vc hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbooks)
