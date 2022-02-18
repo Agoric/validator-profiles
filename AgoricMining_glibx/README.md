@@ -1,5 +1,5 @@
 # Agoric Validator Pledge
-
+[AgoricMining_GlibX Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1xvzrfcwnegxqgtqlswnra6g7483puykr5w627y)
 To receive and maintain delegation from the Agoric OpCo, I,  Glibx Inc , Validator Moniker: AgoricMining_Glibx, hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me by the Agoric Operations Company and/or any other associated organizations. :
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
