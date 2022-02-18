@@ -25,8 +25,7 @@ I, Chainode Tech hereby commit to the following work and support for the benefit
 Category 1: Infrastructure
 
 I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint , I will build a block explorer, validator dashboard, or other community tool
-Category
 
-2: Community Growth
+Category 2: Community Growth
 
 I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates‌
