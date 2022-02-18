@@ -1,5 +1,5 @@
 # Agoric Validator Pledge
-
+[0xFury Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1ahd5z754dkgqxuc5fcwd2s5tatmpurhsdeqes2)
 We, 0xFury, hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, we do not meet these commitments then we understand that we may lose delegation staked to us.
 
 1. The hardware our node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
