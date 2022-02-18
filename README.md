@@ -1,6 +1,6 @@
 # Agoric Validator Pledge
 
-To receive and maintain delegation from the Agoric OpCo, I,Making.cash hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+To receive and maintain delegation from the Agoric OpCo, I, Making.cash hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%3A-Recommended-Hardware-Baseline-for-Node-Operation)
 
@@ -27,4 +27,4 @@ Category 1: Infrastructure
 I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint , I will run a Chainlink oracle node for Agoric and participate in the oracle community supporting Agoric , I will build a block explorer, validator dashboard, or other community tool
 Category 2: Community Growth
 
-I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels, I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates‌
+I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels, I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates.
