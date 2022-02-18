@@ -12,7 +12,7 @@ I, StakeAngle hereby commit to the following work and support for the benefit of
 
 5. I will actively participate in security and upgrade governance proposals found on [Commonwealth.im](https://commonwealth.im/agoric)
 
-6. I will report bugs I discover through the process described in the [Agoric Reporting a Security Bug Runbook](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
+6. I will report bugs I discover through the process described in the [Agoric Reporting a Security Bug Runbook](https://github.com/Agoric/agoric-sdk/wiki/Runbook%3A-Reporting-a-Security-Bug)
 
 7. I will follow the guidelines described in the [Agoric Security Coordination - Emergency Bug Response with Chain Validators Runbook](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...) to maintain the health of the chain
 
