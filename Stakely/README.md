@@ -1,6 +1,6 @@
 # Agoric Validator Pledge
  
-
+[Stakely Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1mxhgvj2c93xahahx9d9fc7rwwtufqza5cn6uhn)
 I, Stakely hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
  
 
