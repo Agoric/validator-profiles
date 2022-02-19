@@ -1,5 +1,5 @@
 # Agoric Validator Pledge
-https://main.explorer.agoric.net/validator/agoricvaloper1avjyymefy3wzepse09q3hrgnla3fjr72av43e9
+[stakecraft explorer page](https://main.explorer.agoric.net/validator/agoricvaloper1avjyymefy3wzepse09q3hrgnla3fjr72av43e9)
 
 I, StakeCraft hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
