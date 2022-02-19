@@ -1,5 +1,5 @@
 # Agoric Validator Pledge
-
+[Syd Validator Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1j7ywdpe77ysau0kg6ssy9w0ly9y7pavdc22f49)
 I, Syd hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
