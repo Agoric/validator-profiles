@@ -1,5 +1,6 @@
 # Agoric Validator Pledge
 
+[stake2earn Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1dm5l7udmdc66lza5dvhtmqw0m6u640qc0c2ymg)
 I, stake2earn hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.: 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...) 
 2. My node will have an uptime of at least 95% 
