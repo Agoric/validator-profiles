@@ -1,6 +1,6 @@
 # Agoric Validator Pledge
-
-I,[Entity or Individual name] hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+[Nodeasy.com Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper16phwt7l6kl4zvr0mu25nxevte5qvm3wa30h9rg)
+I, Nodeasy.com hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
