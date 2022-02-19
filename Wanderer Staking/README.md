@@ -29,3 +29,5 @@ To receive and maintain delegation from the Agoric OpCo, I, [Wanderer Staking](h
     Category 2: Community Growth
 
        I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates
+
+[Wanderer Staking Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1kxekyxvywtqexan9m9uju69ger67vefeeuhgrz)
