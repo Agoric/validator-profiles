@@ -28,6 +28,8 @@ Community. If, for any reason, I do not meet these commitments then I understand
 Category 1: Infrastructure
 
 I will run an RPC endpoint
+
+
 Category 2: Community Growth
 
 I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels
