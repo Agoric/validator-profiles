@@ -1,4 +1,4 @@
-# Agoric Validator Pledge
+# Cheoa Pledge
 
 I,cheoa hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
