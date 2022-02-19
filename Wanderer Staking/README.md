@@ -1,6 +1,7 @@
 # Agoric Validator Pledge
 
-To receive and maintain delegation from the Agoric OpCo, I, [Wanderer Staking](https://gist.github.com/Wanderer-Cry/36ac394dbbb508cb26beddaa1267f650) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me by the Agoric Operations Company and/or any other associated organizations. :
+I, [Wanderer Staking](https://gist.github.com/Wanderer-Cry/36ac394dbbb508cb26beddaa1267f650), 
+[Wanderer Staking Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1kxekyxvywtqexan9m9uju69ger67vefeeuhgrz) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me by the Agoric Operations Company and/or any other associated organizations. :
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
@@ -30,4 +31,3 @@ To receive and maintain delegation from the Agoric OpCo, I, [Wanderer Staking](h
 
        I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates
 
-[Wanderer Staking Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1kxekyxvywtqexan9m9uju69ger67vefeeuhgrz)
