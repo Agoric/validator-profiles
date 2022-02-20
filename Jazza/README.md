@@ -1,5 +1,7 @@
 # Agoric Validator Pledge
 
+[Jazza Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper12v2h8ru0y56tmd6z09rc53mfpm6xap6rs4yh54)
+
 I, Jazza hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
