@@ -1,6 +1,5 @@
 # Agoric Validator Pledge
-[Stakeborg](https://main.explorer.agoric.net/validator/agoricvaloper1ppa65ec56rqvf4z4v393l0n7llnscw483wkn57)
-I, Stakeborg hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+I, [Stakeborg](https://main.explorer.agoric.net/validator/agoricvaloper1ppa65ec56rqvf4z4v393l0n7llnscw483wkn57) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
