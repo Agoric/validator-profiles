@@ -1,6 +1,6 @@
 # Agoric Validator Pledge
 
-We, Stakecito team hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+We, Stakecito team hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.: https://main.explorer.agoric.net/validator/agoricvaloper1qe8uuf5x69c526h4nzxwv4ltftr73v7qzs405m
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
