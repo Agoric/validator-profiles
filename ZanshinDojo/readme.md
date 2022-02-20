@@ -1,6 +1,6 @@
 # Agoric Validator Pledge
 
-I, ZanshinDojo hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+I, Sensei at [ZanshinDojo](https://agoric.bigdipper.live/validators/agoricvaloper1lyd2kep0syxkawnxm857cn9wlc578j8e4ygnny) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
@@ -28,3 +28,4 @@ I will run an Agoric testnet node with an uptime of at least 95%, I will run an 
 Category 2: Community Growth
 
 I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates, I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki. ‌
+
