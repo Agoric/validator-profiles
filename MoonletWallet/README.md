@@ -1,5 +1,7 @@
 # Agoric Validator Pledge
 
+[MoonletWallet](https://main.explorer.agoric.net/validator/agoricvaloper1q8teur40emyun60et4wh5z6yj5669stg5hy05e)
+
 I, MoonletWallet hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
