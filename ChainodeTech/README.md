@@ -1,5 +1,5 @@
 # Agoric Validator Pledge
-
+[ChainodeTech Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1zv806pskyg4vc8ylhz7wu792hr6rg7z04yzkel)
 I, Chainode Tech hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
