@@ -1,5 +1,5 @@
 # Agoric Validator Pledge
-
+[OracleGen Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1y593wy6wzksufnpkgvqmqsev9fz5yf6lmmws8d)
 [OracleGen Big Dipper.live Explorer Link](https://agoric.bigdipper.live/validators/agoricvaloper1y593wy6wzksufnpkgvqmqsev9fz5yf6lmmws8d)\
 [OracleGen Big Dipper Agoric.net Explorer Link](https://main.explorer.agoric.net/validator/95CC10CF4C2DA5330160D103CC4FB81D7DF71225)
 
