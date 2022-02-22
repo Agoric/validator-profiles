@@ -1,5 +1,7 @@
 # Agoric Validator Pledge
 
+[Nodes.Guru Explorer Link](https://explorer.agoric.nodes.guru/validator/agoricvaloper1w2fe5lu8jp02xtaxlak0456fjthe588xwqjmaz)
+
 To receive and maintain delegation from the Agoric OpCo, I, [Nodes.Guru](https://stake.nodes.guru) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me by the Agoric Operations Company and/or any other associated organizations. :
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook:-Recommended-Hardware-Baseline-for-Node-Operation)
