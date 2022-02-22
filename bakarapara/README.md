@@ -1,7 +1,6 @@
 # Agoric Validator Pledge
 
-[barakapara Explorer Link]
-(https://main.explorer.agoric.net/validator/agoricvaloper13dll334570z748gqzdwv0kf3r9y2s3h9j4yrzy)
+[barakapara Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper13dll334570z748gqzdwv0kf3r9y2s3h9j4yrzy)
 
 To receive and maintain delegation from the Agoric OpCo, I, [barakapara](https://main.explorer.agoric.net/validator/agoricvaloper13dll334570z748gqzdwv0kf3r9y2s3h9j4yrzy) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me by the Agoric Operations Company and/or any other associated organizations. :
 
