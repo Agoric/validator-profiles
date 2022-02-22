@@ -1,6 +1,6 @@
 # Agoric Validator Pledge
 
-To receive and maintain delegation from the Agoric OpCo, I,PDP_Validator hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+To receive and maintain delegation from the Agoric OpCo, I,PDP_Validator [https://main.explorer.agoric.net/validator/agoricvaloper1ahq8d70psln40fkwpghtq59yxq4l8vx9x0ap7p] hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
@@ -24,7 +24,7 @@ To receive and maintain delegation from the Agoric OpCo, I,PDP_Validator hereby 
 
 Category 1: Infrastructure
 
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint
+I will run an Agoric testnet node with an uptime of at least 95% [https://devnet.explorer.agoric.net/validator/agoricvaloper1d54ktdzxxhmg08nz4tca7hy0wwun3wvdzj2xsj] , I will run an RPC endpoint [http://95.216.5.101:26657/]
 Category 2: Community Growth
 
 I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki. ‌
