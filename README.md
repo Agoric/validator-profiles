@@ -1,4 +1,7 @@
 # Agoric Validator Pledge
+
+[NodeStake.top](https://main.explorer.agoric.net/validator/agoricvaloper1nkhsz0uk0d8qd4p7unrwej0j3ne8acpk9dd3sg)
+
 To receive and maintain delegation from the Agoric OpCo,I,NodeStake.top hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
