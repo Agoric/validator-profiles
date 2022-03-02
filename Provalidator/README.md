@@ -1,4 +1,6 @@
 # Agoric Validator Pledge
+[Provalidator Explorer Link]
+(https://main.explorer.agoric.net/validator/agoricvaloper1xvz54pusznw8t76985kl3v2epduhyuscr4zxx3)
 
 I, Provalidator hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
