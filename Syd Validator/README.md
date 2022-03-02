@@ -1,7 +1,6 @@
 # Agoric Validator Pledge
-[Provalidator Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1xvz54pusznw8t76985kl3v2epduhyuscr4zxx3 "Provalidator")
-
-I, Provalidator hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+[Syd Validator Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1j7ywdpe77ysau0kg6ssy9w0ly9y7pavdc22f49)
+I, Syd hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
@@ -24,9 +23,7 @@ I, Provalidator hereby commit to the following work and support for the benefit 
 10. I commit to network contributions listed below:
 
 Category 1: Infrastructure
-
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint, I will build a block explorer, validator dashboard, or other community tool
+I will run an Agoric testnet node with an uptime of at least 95%
 
 Category 2: Community Growth
-
-I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates.
+I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels‌ 

@@ -1,7 +1,7 @@
 # Agoric Validator Pledge
-[Provalidator Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1xvz54pusznw8t76985kl3v2epduhyuscr4zxx3 "Provalidator")
 
-I, Provalidator hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+[c29r3 Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1h3y305zhn2gtfg76qaz5ya0at52tvqw3dlskye)
+To receive and maintain delegation from the Agoric OpCo, I, c29r3 hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me by the Agoric Operations Company and/or any other associated organizations. :
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
@@ -25,8 +25,10 @@ I, Provalidator hereby commit to the following work and support for the benefit 
 
 Category 1: Infrastructure
 
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint, I will build a block explorer, validator dashboard, or other community tool
+I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint , I will run a Chainlink oracle node for Agoric and participate in the oracle community supporting Agoric , I will build a block explorer, validator dashboard, or other community tool
+
+
 
 Category 2: Community Growth
 
-I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates.
+I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki.

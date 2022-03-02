@@ -1,7 +1,6 @@
 # Agoric Validator Pledge
-[Provalidator Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1xvz54pusznw8t76985kl3v2epduhyuscr4zxx3 "Provalidator")
 
-I, Provalidator hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+I, [DSRV Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1wlagucxdxvsmvj6330864x8q3vxz4x02y2fcsc), hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
@@ -25,8 +24,8 @@ I, Provalidator hereby commit to the following work and support for the benefit 
 
 Category 1: Infrastructure
 
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint, I will build a block explorer, validator dashboard, or other community tool
+I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint , I will run a Chainlink oracle node for Agoric and participate in the oracle community supporting Agoric
 
 Category 2: Community Growth
 
-I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates.
+I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels, I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates, I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki.

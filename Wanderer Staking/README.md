@@ -1,7 +1,7 @@
 # Agoric Validator Pledge
-[Provalidator Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1xvz54pusznw8t76985kl3v2epduhyuscr4zxx3 "Provalidator")
 
-I, Provalidator hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+I, [Wanderer Staking](https://gist.github.com/Wanderer-Cry/36ac394dbbb508cb26beddaa1267f650), 
+[Wanderer Staking Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1kxekyxvywtqexan9m9uju69ger67vefeeuhgrz) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me by the Agoric Operations Company and/or any other associated organizations. :
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
@@ -23,10 +23,11 @@ I, Provalidator hereby commit to the following work and support for the benefit 
 
 10. I commit to network contributions listed below:
 
-Category 1: Infrastructure
+    Category 1: Infrastructure
 
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint, I will build a block explorer, validator dashboard, or other community tool
+       I will run an RPC endpoint
 
-Category 2: Community Growth
+    Category 2: Community Growth
 
-I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates.
+       I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates
+
