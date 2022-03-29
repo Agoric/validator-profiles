@@ -2,7 +2,7 @@
 
 A number of Agoric validators have pledged to meet the following requiremens:
 
-1. Hardware requirements detailed in the Agoric Validator Runbooks
+1. Hardware requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbooks)
 
 2. Uptime of at least 95%
 
