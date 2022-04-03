@@ -28,4 +28,8 @@ I will run an Agoric testnet node with an uptime of at least 95%, I will run an 
 
 Category 2: Community Growth
 
-I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki. ‌
+I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki.
+
+**List of Deployments**
+
+1. Run an RPC endpoint (Categoty 1) : https://agoric-rpc.earnx.io/public/block 
