@@ -1,5 +1,6 @@
 # Agoric Validator Pledge
 
+
 [TheNop.io Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper17k4wstnvtyt7pt8qnfamrdpkkj7f5qqvf6heg3)
 I,TheNOP.io hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
@@ -29,3 +30,34 @@ I will run an Agoric testnet node with an uptime of at least 95%, I will run an 
 Category 2: Community Growth
 
 I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki. 
+
+A number of Agoric validators have pledged to meet the following requiremens:
+
+1. Hardware requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbooks)
+
+2. Uptime of at least 95%
+
+3. Set a reasonable commission rate
+
+4. Commit to not exceed 10% voting power
+
+5. Actively participate in security and upgrade governance proposals
+
+6. Commit to network contributions with at least one from each category:
+
+## Category 1: Infrastructure
+
+  - Run testnet node 
+  - Run an RPC endpoint
+  - Run a Chainlink oracle node for Agoric 
+  - Build a block explorer, validator dashboard, or other community tool
+
+## Category 2: Community Growth
+
+  - Write and deploy smart contract components
+  - Create educational content (articles, tutorials, videos) about building with Agoric smart contracts 
+  - Present at an Agoric Twitter Space or related event on governance proposals, validator experiences and best practices, or provide other  relevant community updates
+
+## Background
+
+  - Jan 28 [Validator Delegation Program](https://agoric.com/blog/announcements/agoric-validator-program/) announcement.
