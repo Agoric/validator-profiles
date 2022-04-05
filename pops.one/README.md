@@ -20,3 +20,9 @@ Category 2: Community Growth
 
 
 I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels, I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates.
+
+List of contributions:
+
+- staking guide: https://medium.com/@popsteam/staking-on-agoric-network-4dcd0954a38
+- security practices for Ledger: https://medium.com/@popsteam/best-security-practices-for-ledger-a632a1801038
+- devnet validator: https://devnet.explorer.agoric.net/validator/33F59C9137FEA0E43971644B7F6E1443EAE36946
