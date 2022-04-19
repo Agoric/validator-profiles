@@ -18,7 +18,7 @@ I, ItalyBLD | HWL hereby commit to the following work and support for the benefi
 
 7. I will follow the guidelines described in the [Agoric Security Coordination - Emergency Bug Response with Chain Validators Runbook](https://github.com/Agoric/agoric-sdk/wiki/Runbook%3A-Security-Coordination---Emergency-Bug-Response-with-Chain-Validators) to maintain the health of the chain
 
-8. I will notify impacted parties in case of node outage.
+8. I will notify impacted parties in case of node outage
 
 9. I will strive to capture and share observability metrics to help diagnose and troubleshoot network and node performance issues
 
