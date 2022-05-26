@@ -25,6 +25,14 @@ I, Alexandru Ast (stake.systems) hereby commit to the following work and support
 Category 1: Infrastructure
 
 I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint , I will run a Chainlink oracle node for Agoric and participate in the oracle community supporting Agoric
+
+```
+curl https://agoric.stakesystems.io/node_info
+curl https://agoric.stakesystems.io:2053/status
+grpcurl agoric.stakesystems.io:2083 list
+```
+All nodes behind the RPC service are state-sync enabled
+
 Category 2: Community Growth
 
 I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki. ‌
