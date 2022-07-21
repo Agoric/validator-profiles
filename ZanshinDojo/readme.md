@@ -5,6 +5,7 @@ I, Sensei at [ZanshinDojo](https://agoric.bigdipper.live/validators/agoricvalope
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
 2. My node will have an uptime of at least 95%
+Our uptime can be monitored publicly on the [explorer](https://agoric.bigdipper.live/validators/agoricvaloper1lyd2kep0syxkawnxm857cn9wlc578j8e4ygnny), or via [Tenderduty](https://tenderduty.zanshindojo.org)..
 
 3. I will set a reasonable commission rate between 3% to 10%
 
