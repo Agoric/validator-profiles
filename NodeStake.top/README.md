@@ -30,3 +30,22 @@ I will run an Agoric testnet node with an uptime of at least 95%, I will run an 
 Category 2: Community Growth
 
 I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates, I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki. ‌
+
+Update:
+Mainnet rpc/grpc/api endpoint:
+https://rpc.agoric.nodestake.top
+https://grpc.agoric.nodestake.top
+https://api.agoric.nodestake.top
+
+Mainnet Explorer:
+https://explorer.nodestake.top/agoric
+
+Testnet Validator:
+https://devnet.agoric.explorers.guru/validator/agoricvaloper1nkhsz0uk0d8qd4p7unrwej0j3ne8acpk9dd3sg
+
+Chinese Telegarm:
+https://t.me/agoric_chinese
+
+Guide:
+1. How to stake Agoric(BLD)(Chinese)
+https://blog.nodestake.top/agoric-%E5%A6%82%E4%BD%95%E8%B4%A8%E6%8A%BCagoric-bld-64786dda3f71
