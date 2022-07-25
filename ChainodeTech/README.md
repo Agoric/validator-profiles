@@ -1,7 +1,6 @@
 # Agoric Validator Pledge
-[1ce Explorer Link](https://explorer.agoric.nodes.guru/validator/agoricvaloper19zqc6h7d3lff204rsr02qzxceea7kule54j0hw)
-
-I, 1ce hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+[ChainodeTech Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1zv806pskyg4vc8ylhz7wu792hr6rg7z04yzkel)
+I, Chainode Tech hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
@@ -25,8 +24,8 @@ I, 1ce hereby commit to the following work and support for the benefit of the Ag
 
 Category 1: Infrastructure
 
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an [RPC endpoint](http://65.108.15.174:26657/)
+I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint , I will build a block explorer, validator dashboard, or other community tool
 
 Category 2: Community Growth
 
-I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki.
+I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates‌
