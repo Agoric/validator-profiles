@@ -23,7 +23,11 @@ I will create educational content (articles, tutorials, videos) about building w
 
 List of contributions:
 
-- staking guide: https://medium.com/@popsteam/staking-on-agoric-network-4dcd0954a38
-- security practices for Ledger: https://medium.com/@popsteam/best-security-practices-for-ledger-a632a1801038
-- devnet validator: https://devnet.explorer.agoric.net/validator/33F59C9137FEA0E43971644B7F6E1443EAE36946
 - node installer: https://github.com/P-OPSTeam/agoric
+- devnet validator: https://devnet.agoric.explorers.guru/validator/agoricvaloper1vamu60dt3st0nq0hk7xtaxxt436calaf255n4e
+
+- staking guide: https://medium.com/@popsteam/staking-on-agoric-network-4dcd0954a38
+- Agoric adventures articles: https://medium.com/@popsteam/agoric-adventures-a23868a39a4f
+- security practices for Ledger: https://medium.com/@popsteam/best-security-practices-for-ledger-a632a1801038
+
+
