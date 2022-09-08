@@ -26,7 +26,7 @@ See [Proposal #9](https://ping.pub/agoric/gov/9), which we proposed after workin
 
 Category 1: Infrastructure
 
-* I will run an Agoric testnet node with an uptime of at least 95%
+* I will run an [Agoric testnet node](https://emerynet.explorer.agoric.net/agoric/staking/agoricvaloper1dptt8tqyr3waezee0ud9z4vkglru22lhqysp40)  with an uptime of at least 95%
 * I will run an RPC endpoint at [agoric-rpc.zanshindojo.org](https://agoric-rpc.zanshindojo.org)
 
 Category 2: Community Growth
