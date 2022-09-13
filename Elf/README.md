@@ -1,7 +1,7 @@
 # Agoric Validator Pledge
  Agoric Validator Pledge
  [Elf_P_DAO Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper13d5jlg3xc760lt99jsn8zznaqvh7ee6xq74tut)
-
+ TestNet address https://testnet.explorer.agoric.net/validator/agoricvaloper12ah6k74r89psypztx9kzg2df02f0w5jvnmx2er
 I,ZiQi Zhang hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
