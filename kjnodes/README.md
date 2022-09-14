@@ -26,8 +26,52 @@ Category 1: Infrastructure
 
 I will run an RPC endpoint , I will build a block explorer, validator dashboard, or other community tool
 
+List of our contributions for Agoric project:
 
+Infrastructure Mainnet:
+- RPC endpoint: https://agoric-mainnet.rpc.kjnodes.com
+- API endpoint: https://agoric-mainnet.api.kjnodes.com
+- P2P peer: `04dfb6dfa2696a46eec6748d2c6842c82030cb8d@agoric-mainnet.rpc.kjnodes.com:27656`
+
+Plans for the future: Provide with services like State-Sync, Snapshots and IBC relayer
+
+Infrastructure Testnet:
+- RPC endpoint: https://agoric-testnet.rpc.kjnodes.com
+- API endpoint: https://agoric-testnet.api.kjnodes.com
+- P2P peer: `80b8acb4862f3a93072359911e73fedd1be625b8@agoric-testnet.rpc.kjnodes.com:27656`
+- Explorer: https://explorer.kjnodes.com/agoric
+
+We are also actively participating in chain governance and running testnet validator node to help test chain upgrades before they reach mainnet.
 
 Category 2: Community Growth
 
-I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki.
+Our guides for Agoric mainnet:
+https://github.com/kj89/testnet_manuals/blob/main/agoric
+
+Our guides for Agoric testnet:
+Mainnet: https://github.com/kj89/testnet_manuals/blob/main/agoric/emerynet
+
+We have developed our own monitoring and alerting dashboard for Cosmos ecosystem that is widely used by other validators in many projects
+
+As a contribution to Agoric community I would like to share our guide on how to setup monitoring dashboard and alerting for your validator in just few minutes. This tool will notify you in telegram if some of critical metrics change. Also you will get pretty looking dashboard to follow your node and chain health status.
+Guide can be found [here](https://github.com/kj89/testnet_manuals/blob/main/agoric/monitoring/README.md)
+For video as an example I used Agoric devnet validator. You can watch it [here](https://www.youtube.com/watch?v=b5pTCFVQdOQ)
+
+## Dashboard contents
+Grafana dashboard is devided into 4 sections:
+- **Validator health** - main stats for validator health. connected peers and missed blocks
+
+![image](https://user-images.githubusercontent.com/50621007/160629676-bc3c4f0f-66df-4a5f-9844-dca308072e7a.png)
+
+- **Chain health** - summary of chain health stats and list of top validators missing blocks
+
+![image](https://user-images.githubusercontent.com/50621007/160629937-52253f35-8782-4dd2-80cc-ad31d0231a84.png)
+
+- **Validator stats** - information about validator such as rank, bounded tokens, comission, delegations and rewards
+
+![image](https://user-images.githubusercontent.com/50621007/160630119-0abad099-b138-4f61-9e73-49506c2295ff.png)
+
+- **Hardware health** - system hardware metrics. cpu, ram, network usage
+
+![image](https://user-images.githubusercontent.com/50621007/160630213-5e92b3ce-92c9-4f48-8856-383ca884b621.png)
+
