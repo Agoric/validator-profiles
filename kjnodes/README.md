@@ -37,6 +37,7 @@ Testnet:
 - API endpoint: https://agoric-testnet.api.kjnodes.com
 - P2P peer: `80b8acb4862f3a93072359911e73fedd1be625b8@agoric-testnet.rpc.kjnodes.com:27656`
 - Explorer: https://explorer.kjnodes.com/agoric
+- Testnet validator: https://explorer.kjnodes.com/agoric/staking/agoricvaloper1nv7d3w94zcrtr06yyvjjvlchr9kmnjwa3ktjqf
 
 > **Note**
 > We are also actively participating in chain governance and running testnet validator node to help test chain upgrades before they reach mainnet.
