@@ -22,36 +22,35 @@ To receive and maintain delegation from the Agoric OpCo, I, kjnodes hereby commi
 
 10. I commit to network contributions listed below:
 
-Category 1: Infrastructure
+### Category 1: Infrastructure
 
-I will run an RPC endpoint , I will build a block explorer, validator dashboard, or other community tool
-
-List of our contributions for Agoric project:
-
-Infrastructure Mainnet:
+Mainnet:
 - RPC endpoint: https://agoric-mainnet.rpc.kjnodes.com
 - API endpoint: https://agoric-mainnet.api.kjnodes.com
 - P2P peer: `04dfb6dfa2696a46eec6748d2c6842c82030cb8d@agoric-mainnet.rpc.kjnodes.com:27656`
 
-Plans for the future: Provide with services like State-Sync, Snapshots and IBC relayer
+> **Note**
+> Plans for the future: Provide with services like State-Sync, Snapshots and IBC relayer
 
-Infrastructure Testnet:
+Testnet:
 - RPC endpoint: https://agoric-testnet.rpc.kjnodes.com
 - API endpoint: https://agoric-testnet.api.kjnodes.com
 - P2P peer: `80b8acb4862f3a93072359911e73fedd1be625b8@agoric-testnet.rpc.kjnodes.com:27656`
 - Explorer: https://explorer.kjnodes.com/agoric
 
-We are also actively participating in chain governance and running testnet validator node to help test chain upgrades before they reach mainnet.
+> **Note**
+> We are also actively participating in chain governance and running testnet validator node to help test chain upgrades before they reach mainnet.
 
-Category 2: Community Growth
+### Category 2: Community Growth
 
-Our guides for Agoric mainnet:
+Our guides for Agoric mainnet: \
 https://github.com/kj89/testnet_manuals/blob/main/agoric
 
-Our guides for Agoric testnet:
+Our guides for Agoric testnet: \
 Mainnet: https://github.com/kj89/testnet_manuals/blob/main/agoric/emerynet
 
-We have developed our own monitoring and alerting dashboard for Cosmos ecosystem that is widely used by other validators in many projects
+> **Note**
+> We have developed our own monitoring and alerting dashboard for Cosmos ecosystem that is widely used by other validators in many projects
 
 As a contribution to Agoric community I would like to share our guide on how to setup monitoring dashboard and alerting for your validator in just few minutes. This tool will notify you in telegram if some of critical metrics change. Also you will get pretty looking dashboard to follow your node and chain health status.
 Guide can be found [here](https://github.com/kj89/testnet_manuals/blob/main/agoric/monitoring/README.md)
