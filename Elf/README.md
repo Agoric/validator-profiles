@@ -2,7 +2,6 @@
  Agoric Validator Pledge
  [Elf_P_DAO Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper13d5jlg3xc760lt99jsn8zznaqvh7ee6xq74tut)
  
-TestNet address https://testnet.explorer.agoric.net/validator/agoricvaloper12ah6k74r89psypztx9kzg2df02f0w5jvnmx2er
 
 I,ZiQi Zhang hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
@@ -33,3 +32,8 @@ Category 2: Community Growth
 
 I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates, I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki. ‌
 _context: see Jan 28 [Validator Delegation Program](https://agoric.com/blog/announcements/agoric-validator-program/) announcement._
+
+DevNet validator 
+https://devnet.explorer.agoric.net/agoric/staking/agoricvaloper1t3qddar53lq5z9p8fgdhauu3kpmc00z68zg0vq
+TestNet address 
+https://testnet.explorer.agoric.net/validator/agoricvaloper12ah6k74r89psypztx9kzg2df02f0w5jvnmx2er
