@@ -25,6 +25,19 @@ I, Stakin OÜ (https://stakin.com), hereby commit to the following work and supp
 Category 1: Infrastructure
 
 I will run an Agoric testnet node with an uptime of at least 95%
+
+Update: Link to the node in explorer
+- https://devnet.explorer.agoric.net/agoric/staking/agoricvaloper10evc2rdpw3dqzw5wkl5jkjrcc3zatmx55sttu8
+
 Category 2: Community Growth
 
 I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels‌
+
+Update: Links to created content
+- https://blog.stakin.com/an-introduction-to-agoric/
+- https://blog.stakin.com/how-to-stake-bld-using-keplr-wallet/
+- https://twitter.com/StakinOfficial/status/1561756970457206789?s=20&t=iNXZdx2xqmDOFA1D7npGQw
+- https://blog.stakin.com/stakin-bi-weekly-newsletter-vol-42/
+- https://blog.stakin.com/stakin-bi-weekly-newsletter-vol-37
+- https://blog.stakin.com/stakin-bi-weekly-newsletter-vol-24
+- https://blog.stakin.com/stakin-bi-weekly-newsletter-vol-50
