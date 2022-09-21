@@ -26,6 +26,8 @@ I,jiawei wang hereby commit to the following work and support for the benefit of
 Category 1: Infrastructure
 
 I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint
+
+
 [RPC endpoint]http:38.75.136.45:26657
 
 Category 2: Community Growth
