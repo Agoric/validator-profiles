@@ -25,7 +25,7 @@ I, 1ce hereby commit to the following work and support for the benefit of the Ag
 
 Category 1: Infrastructure
 
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an [RPC endpoint](http://65.108.15.174:26657/)
+I will run an [Agoric testnet node](https://devnet.agoric.explorers.guru/validator/agoricvaloper1vrqjxejgf35xe3c6f0hmkw2hk86cwex2pxt52k) with an uptime of at least 95%, I will run an [RPC endpoint](http://65.108.15.174:26657/)
 
 Category 2: Community Growth
 
