@@ -40,8 +40,13 @@ https://api.agoric.nodestake.top
 Mainnet Explorer:
 https://explorer.nodestake.top/agoric
 
-Testnet Validator:
+Devnet Validator:
 https://devnet.agoric.explorers.guru/validator/agoricvaloper1nkhsz0uk0d8qd4p7unrwej0j3ne8acpk9dd3sg
+
+Devnet rpc/grpc/api endpoint:
+https://rpc-dev.agoric.nodestake.top
+https://grpc-dev.agoric.nodestake.top
+https://api-dev.agoric.nodestake.top
 
 Chinese Telegarm:
 https://t.me/agoric_chinese
