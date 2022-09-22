@@ -24,7 +24,7 @@ I, Syd hereby commit to the following work and support for the benefit of the Ag
 
 Category 1: Infrastructure
 I will run an Agoric testnet node with an uptime of at least 95%
-https://devnet.agoric.explorers.guru/validator/agoricvaloper1fgl3gg3mfych9xsmlz8mx6al0ryknaeg0kn0d7
+https://devnet.agoric.explorers.guru/validator/agoricvaloper1zumexy3l36pjvfr2mky2gaq749uwrsu2pk9u6k
 
 Category 2: Community Growth
 I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels‌ 
