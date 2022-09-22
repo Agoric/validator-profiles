@@ -5,12 +5,14 @@ I, Sensei at [ZanshinDojo](https://agoric.bigdipper.live/validators/agoricvalope
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
 2. My node will have an uptime of at least 95%
+Our uptime can be monitored publicly on the [explorer](https://agoric.bigdipper.live/validators/agoricvaloper1lyd2kep0syxkawnxm857cn9wlc578j8e4ygnny), or via [Tenderduty](https://tenderduty.zanshindojo.org)..
 
 3. I will set a reasonable commission rate between 3% to 10%
 
 4. I commit to not exceed 10% voting power
 
 5. I will actively participate in security and upgrade governance proposals found on [Commonwealth.im](https://commonwealth.im/agoric)
+See [Proposal #9](https://ping.pub/agoric/gov/9), which we proposed after working with the core team and other validators to confirm remediation of an important bug fix.
 
 6. I will report bugs I discover through the process described in the [Agoric Reporting a Security Bug Runbook](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
@@ -24,8 +26,10 @@ I, Sensei at [ZanshinDojo](https://agoric.bigdipper.live/validators/agoricvalope
 
 Category 1: Infrastructure
 
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint
+* I will run an [Agoric testnet node](https://emerynet.explorer.agoric.net/agoric/staking/agoricvaloper1dptt8tqyr3waezee0ud9z4vkglru22lhqysp40)  with an uptime of at least 95%
+* I will run an RPC endpoint at [agoric-rpc.zanshindojo.org](https://agoric-rpc.zanshindojo.org)
+
 Category 2: Community Growth
 
-I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates, I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki. ‌
+I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates, I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki.
 
