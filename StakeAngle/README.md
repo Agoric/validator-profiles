@@ -24,7 +24,7 @@ I, StakeAngle hereby commit to the following work and support for the benefit of
 
 Category 1: Infrastructure
 
-I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint
+I will run an [Agoric testnet node](https://devnet.agoric.explorers.guru/validator/agoricvaloper13sj45rmw36gfl4gpvcpqns92uy40tpqdnq0hct) with an uptime of at least 95%, I will run an [RPC endpoint](https://agoric-rpc.stakeangle.com/)
 Category 2: Community Growth
 
 I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels‌
