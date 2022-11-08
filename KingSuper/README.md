@@ -1,6 +1,6 @@
 # Agoric Validator Pledge
 [KingSuper](https://main.explorer.agoric.net/validator/agoricvaloper1fy8r6zq3dde6n7ak6eqy5zsrp3s7sz833dmv32)
-I, Aditya Kumar Verma hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+I, Aditya Kumar Verma (aka KingSuper) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
@@ -26,6 +26,23 @@ Category 1: Infrastructure
 
 I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint , I will run a Chainlink oracle node for Agoric and participate in the oracle community supporting Agoric , I will build a block explorer, validator dashboard, or other community tool
 
+Update:
+
+Operating a validator node on devnet, explorer link: https://devnet.agoric.explorers.guru/validator/agoricvaloper1rzkvv4pevcrxa6mu8nwvazgy63knqfnz8ya3y0
+
 Category 2: Community Growth
 
 I will create educational content (articles, tutorials, videos) about building with Agoric smart contracts and will share the content on community channels, I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates, I will contribute to the development of security best practices by creating and sharing technical documentation that includes writing incident response runbooks, configuration guides, or information for a validator wiki.
+
+Update:
+
+To keep the community updated about new governance proposal, I am hosting a bot which can poll proposals directly from the chain and post it to discord, well formatted and tags the governance role to inform about the new proposals. This reduces the headache of the team to post every proposal manually.
+
+Not only that it has all the necessary links:
+1. Link to proposal on explorer
+2. Link to keplr where one can connect their wallet and vote
+
+Here is a screenshot of the bot in action in Agoric Server:
+
+![](./images/agoric-proposal-bot.png)
+
