@@ -25,5 +25,11 @@ I, Colinka hereby commit to the following work and support for the benefit of th
 Category 1: Infrastructure
 I will run an Agoric testnet node with an uptime of at least 95%, I will run an RPC endpoint , I will build a block explorer, validator dashboard, or other community tool
 
+RPC endpoint (already live at http://85.10.198.171:26612/)
+Testnet validator: https://emerynet.explorer.agoric.net/agoric/staking/agoricvaloper1mfhw67p30kj8gfv8g3zc9mczuawh4ajafthqat
+Devnet validator: https://devnet.agoric.explorers.guru/validator/agoricvaloper1xw5ly9hzfgwdwfmfkzw0kywrarwn70uvzyw6pu
+
 Category 2: Community Growth
 I will present at an Agoric Twitter Space(need documented practices) or related event on governance proposals, validator experiences and best practices, and/or provide other relevant community updates‌ 
+
+Voted in all governance proposals
