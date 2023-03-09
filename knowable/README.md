@@ -1,5 +1,7 @@
 # Agoric Validator Pledge
 
+[Knowable Explorer Link](https://main.explorer.agoric.net/validator/agoricvaloper1k8trvjncq7ese6299uy4fcfjgmv3zx6cc3dntt)
+
 We, Knowable Ventures, hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, we do not meet these commitments then we understand that we may lose delegation staked to us:
 
 1. The hardware our node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
