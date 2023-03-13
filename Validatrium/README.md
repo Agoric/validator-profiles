@@ -35,8 +35,8 @@ I will move infrastructure outside of Hetzner to professional DC in Austria to s
 Category 2: Community Growth
 
 I will participate at Agoric Twitter Spaces, AMA sessions or related events on governance proposals
-I will take active part in governance proposals and suggest on improvements ([as I previously did]https://discord.com/channels/585576150827532298/961020177716232192/1077593900551770203())
-I will share created content with our community ( [Validatrium Twitter](https://twitter.com/validatrium), [Validatrium LinkedIn](https://www.linkedin.com/company/validatrium/), [Validatrium Telegram](https://t.me/validatrium) )
+I will take active part in governance proposals and suggest on improvements ([as I previously did]i(https://discord.com/channels/585576150827532298/961020177716232192/1077593900551770203))
+I will share created content with our community ([Validatrium Twitter](https://twitter.com/validatrium), [Validatrium LinkedIn](https://www.linkedin.com/company/validatrium/), [Validatrium Telegram](https://t.me/validatrium))
 I will create more relevant contributions, like we previously did:
 Infographics (general info) - not done yet
 [Technical Tutorial (setup node & monitoring with telegram bots)](https://gist.github.com/Validatrium/2a1ab704e823e50dc08b4bdd8472f278)
