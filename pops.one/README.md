@@ -25,9 +25,11 @@ List of contributions:
 
 - node installer: https://github.com/P-OPSTeam/agoric
 - devnet validator: https://devnet.agoric.explorers.guru/validator/agoricvaloper1vamu60dt3st0nq0hk7xtaxxt436calaf255n4e
+- wallet exporter: https://github.com/P-OPSTeam/wallet-exporter
 
 - staking guide: https://medium.com/@popsteam/staking-on-agoric-network-4dcd0954a38
 - Agoric adventures articles: https://medium.com/@popsteam/agoric-adventures-a23868a39a4f
 - security practices for Ledger: https://medium.com/@popsteam/best-security-practices-for-ledger-a632a1801038
+- ledger staking guide: https://medium.com/@popsteam/ledger-nano-s-beginners-guide-to-setting-up-and-staking-agoric-bld-5b889d524053
 
 
