@@ -1,6 +1,6 @@
 # Agoric Validator Pledge
-[KingSuper](https://main.explorer.agoric.net/validator/agoricvaloper1fy8r6zq3dde6n7ak6eqy5zsrp3s7sz833dmv32)
-I, Aditya Kumar Verma (aka KingSuper) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
+[Encapsulate](https://www.mintscan.io/agoric/validators/agoricvaloper1p8uxq4ska2psv2k8wknljh568k5qfnwtg25ldj)
+I, Aditya Kumar Verma of Encapsulate (formerly KingSuper) hereby commit to the following work and support for the benefit of the Agoric Network and Community. If, for any reason, I do not meet these commitments then I understand that I may lose delegation staked to me.:
 
 1. The hardware my node will run meets the requirements detailed in the [Agoric Validator Runbooks](https://github.com/Agoric/agoric-sdk/wiki/Runbook%...)
 
